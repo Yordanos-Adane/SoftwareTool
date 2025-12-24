@@ -1,1 +1,1 @@
-# SoftwareTool
+Closes #2
